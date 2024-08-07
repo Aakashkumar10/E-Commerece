@@ -22,7 +22,7 @@ public class Products {
 	private Double price;
 	@Column(name = "image")
 	private String image;
-	
+	 
 	
 	public Products() {
 	}
